@@ -7,3 +7,7 @@
 ``` java
 string name = Kal
 ```
+
+- [ ] Choice one isn't selected
+- [x] Choice two is selected
+- [ ] Choice three is not selected 
